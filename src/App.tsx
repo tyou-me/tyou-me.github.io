@@ -35,8 +35,11 @@ function App() {
                     <Text> Not sure how you landed on this page, but as you can see, it is still work in progress. </Text>
                     <Text> I am hoping to finish building this personal website by the end of this summer. </Text>
                     <Text paddingBottom={'25pt'}> If you like, you can toggle the button below to change the colour mode. </Text>
+                    
                     <Example></Example>
                     
+                    <br/>
+                    <a href="https://www.flaticon.com/free-icons/panda" title="panda icons">The icons in the page title are created by Freepik - Flaticon. </a>
                 </div>
             </div>
         </ChakraProvider>
